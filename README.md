@@ -63,7 +63,7 @@
 
 - **Visualization 2:** [Description]
  
-  ![Visualization Image 2](path-to-your-image-2.png)
+  ![Visualization Image 2](User.Anime.History.View.png)
 
 *Descriptions should explain the insights and relevance of each visualization.*
 
