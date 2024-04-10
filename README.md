@@ -56,11 +56,11 @@
 **Visualizations:**
 
 
-- **Visualization 1:** [This first visualization showcases what year, epsisodes 1 & 2, of each anime was released. ]
+- **Visualization 1:** This first visualization showcases what year each anime epsisodes 1 & 2, was released.
  
   ![Visualization Image 1](Anime.Episode.View.1.png)
 
-- **Visualization 2:** [This second visualization showcases which episode each user last watched.]
+- **Visualization 2:** This second visualization showcases which episode each user last watched.
  
   ![Visualization Image 2](User.Anime.History.View.png)
 
