@@ -59,7 +59,7 @@
 
 - **Visualization 1:** [Description]
  
-  ![Visualization Image 1](path-to-your-image-1.png)
+  ![Visualization Image 1](Anime.Episode.View.png)
 
 - **Visualization 2:** [Description]
  
